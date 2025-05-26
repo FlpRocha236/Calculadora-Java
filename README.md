@@ -10,12 +10,6 @@ Esta calculadora realiza operações matemáticas básicas, incluindo suporte a 
 
 ---
 
-## 🖥️ Demonstração
-
-> (🚧 Insira aqui um print ou GIF mostrando a calculadora rodando no terminal ou no NetBeans)
-
----
-
 ## 🔥 Funcionalidades
 
 ✅ Soma  
@@ -37,7 +31,7 @@ Esta calculadora realiza operações matemáticas básicas, incluindo suporte a 
 
 ```
 📦 CalculadoraJava
-├── 📄 Calculadora.java   → Classe que executa as operações matemáticas
+├── 📄 Calculadora.java    → Classe que executa as operações matemáticas
 ├── 📄 Principal.java      → Classe principal (ponto de entrada do programa)
 ├── 📄 TextAtual.java      → Classe auxiliar para tratamento de texto ou entrada
 ```
@@ -68,17 +62,14 @@ git clone https://github.com/FlpRocha236/Calculadora-Java.git
 
 ## 💡 Melhorias Futuras (Opcional)
 
-- 🔲 Implementar interface gráfica com Java Swing ou JavaFX
 - 🔲 Adicionar operações avançadas (potência, raiz quadrada, porcentagem)
 - 🔲 Melhorar validações de entrada de dados
-- 🔲 Internacionalização (permitir escolher "." ou "," para decimais)
 
 ---
 
 ## 📜 Licença
 
 Este projeto está licenciado sob a Licença MIT.  
-Acesse o arquivo [`LICENSE`](LICENSE) para mais informações.
 
 ---
 
