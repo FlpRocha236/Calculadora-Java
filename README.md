@@ -81,10 +81,3 @@ Aluno da **FATEC Araras — Desenvolvimento de Software Multiplataforma**
 
 ---
 
-## 🙏 Agradecimentos
-
-- 🤝 A todos os professores da **FATEC Araras**
-- ☕ A comunidade Java
-- 💪 A Deus, minha família e meus amigos que apoiam minha jornada
-
----
